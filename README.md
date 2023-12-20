@@ -1,12 +1,8 @@
-### Hi there 👋
-
-# Godly K Mathews - Portfolio
+# Godly K Mathews
 
 > "First, solve the problem. Then, write the code." - John Johnson
 
-Hello, I'm Godly K Mathews, a passionate self-taught programmer and a Computer Science Engineering student from Kerala, India. Welcome to my colorful world of code, creativity, and curiosity!
-
-## About Me
+Hello, I'm Godly K Mathews, a passionate self-taught programmer and a Computer Science Engineering student from Kerala, India. Welcome to my world of code, creativity, and curiosity!
 
 - **Location:** Kottayam, Kerala, India
 - **Email:** godlykmathews@outlook.com
