@@ -19,27 +19,6 @@ I believe in the philosophy of solving problems first and then expressing the so
 - **Education:** B.tech in Computer Science & Engineering at College of Engineering, Kallooppara
 - **Interests:** Technology, Sci-Fi/Fantasy Movies, Cooking
 
-## Experience
-
-### Arduino Workshop
-- Conducted by EDUNEXT
-- April 10, 2022
-
-### Web Designing
-- Personal Website (October 2022)
-- Technical HS School, Puthuppally Website (Feb 2023)
-
-## Education
-
-- **College:** College of Engineering, Kallooppara, Pathanamthitta, Kerala
-  - B.tech - Computer Science & Engineering (Sep 2023 - present)
-
-- **High School:** Technical Higher Secondary School, IHRD, Puthuppally, Kottayam
-  - PCM with Computer Science & Electronic Systems (June 2021 - May 2023)
-
-- **Secondary School:** MGM Public School, Vakathanam, Kottayam
-  - Grade 10 (June 2009 - March 2021)
-
 ## Skills
 
 ### Programming Languages & Tools
@@ -86,7 +65,7 @@ I have a wide range of interests that reflect my curiosity and creativity. Some 
 
 ### Personal Website
 - HTML5 · CSS · JavaScript · Bootstrap
-- [Godly K Mathews](https://your-personal-website-link)
+- [Godly K Mathews](https://godlykmathews.github.io)
 
 ### IoT Gas Sensing Robot with Telegram Bot
 - Arduino Uno · Motor Driver · ESP32 · UltraSonic Sensor · Gas Sensor · Flame Sensor
@@ -105,5 +84,3 @@ I have a wide range of interests that reflect my curiosity and creativity. Some 
 Feel free to reach out if you want to connect or collaborate on something interesting. Thank you for visiting my page!
 
 ---
-
-*Note: Replace the placeholder link and image URLs with your actual profile image link and project images.*
