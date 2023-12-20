@@ -24,28 +24,23 @@ I believe in the philosophy of solving problems first and then expressing the so
 ### Programming Languages & Tools
 
 #### Languages:
-- HTML 5
-- CSS
-- JavaScript
-- Express
-- Handle Bars
-- C++
-- C
-- Python
-- Java
-- MySQL
+[![HTML 5](https://img.shields.io/badge/HTML%205-%233498db?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-%232ecc71?style=flat-square&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23e74c3c?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/Express-%233498db?style=flat-square&logo=express&logoColor=white)](#)
+[![Handle Bars](https://img.shields.io/badge/Handle%20Bars-%232ecc71?style=flat-square&logo=handlebars&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-%23e74c3c?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-%233498db?style=flat-square&logo=c&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-%232ecc71?style=flat-square&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23e74c3c?style=flat-square&logo=java&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-%233498db?style=flat-square&logo=mysql&logoColor=white)](#)
 
 #### Tools:
-- Nodejs
-- Linux
-- Arduino
-- Git
-- Bootstrap
-
-### Workflow
-
-- Responsive Web Design
-- Arduino Robotics
+[![Nodejs](https://img.shields.io/badge/Nodejs-%23f39c12?style=flat-square&logo=node.js&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-%2334495e?style=flat-square&logo=linux&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-%23f1c40f?style=flat-square&logo=arduino&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-%232c3e50?style=flat-square&logo=git&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23795548?style=flat-square&logo=bootstrap&logoColor=white)](#)
 
 ## Interests
 
