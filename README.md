@@ -59,6 +59,10 @@ I have a wide range of interests that reflect my curiosity and creativity. Some 
 
 ## Projects
 
+### Assistrend Website
+- HTML5 · CSS · JavaScript · Bootstrap
+- [assistrend.com](https://assistrend.com)
+
 ### Technical HSS Puthuppally Website
 - HTML5 · CSS · JavaScript · Bootstrap
 - [thssputhuppally.ihrd.ac.in](https://thssputhuppally.ihrd.ac.in)
