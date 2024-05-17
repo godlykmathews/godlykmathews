@@ -66,16 +66,6 @@ I have a wide range of interests that reflect my curiosity and creativity. Some 
 - Arduino Uno · Motor Driver · ESP32 · UltraSonic Sensor · Gas Sensor · Flame Sensor
 - Project Image
 
-## Awards & Certifications
-
-- A Grade for Science Fair State Level - Working Model
-- Brototype 100K Coding Challenge
-- Web Designing Challenge
-- YIP - Voice of customer (Voc-2021)
-- Arduino Workshop Participation
-- Jan Andolan for COVID-19 Appropriate Behaviour
-- Parisha Pe Charcha
-
 Feel free to reach out if you want to connect or collaborate on something interesting. Thank you for visiting my page!
 
 ---
