@@ -2,70 +2,64 @@
 
 > "First, solve the problem. Then, write the code." - John Johnson
 
-Hello, I'm Godly K Mathews, a passionate self-taught programmer and a Computer Science Engineering student from Kerala, India. Welcome to my world of code, creativity, and curiosity!
+<h2 align="left">Hi 👋! I'm Godly K Mathews, a passionate self-taught programmer and a Computer Science Engineering student from Kerala, India.<br>Welcome to my world of code, creativity, and curiosity!</h2>
 
 - **Location:** Kottayam, Kerala, India
-- **Email:** godlykmathews@outlook.com
+- **Email:** godlykmathews@outlook.com | work.godlykm@gmail.com
+###
 
-## Overview
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godlykmathews&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=godlykmathews&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I believe in the philosophy of solving problems first and then expressing the solution through code. Here's a brief overview of my journey:
+###
 
-- **Skills:** C, C++, Python, HTML 5, CSS, JavaScript, Express, Handle Bars, Java, MySQL, Nodejs, Linux, Arduino, Git, Bootstrap
-- **Education:** B.tech in Computer Science & Engineering at College of Engineering, Kallooppara
-- **Interests:** Technology, Sci-Fi/Fantasy Movies, Cooking
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+</div>
 
-## Skills
+###
 
-### Programming Languages & Tools
+<div align="left">
+  <a href="https://www.instagram.com/godly_k_mathews_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="discordapp.com/users/godlykm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="work.godlykm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/godly-k-mathews/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-#### Languages:
-[![HTML 5](https://img.shields.io/badge/HTML%205-%233498db?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-%232ecc71?style=flat-square&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23e74c3c?style=flat-square&logo=javascript&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-%233498db?style=flat-square&logo=express&logoColor=white)](#)
-[![Handle Bars](https://img.shields.io/badge/Handle%20Bars-%232ecc71?style=flat-square&logo=handlebars&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-%23e74c3c?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-%233498db?style=flat-square&logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-%232ecc71?style=flat-square&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23e74c3c?style=flat-square&logo=java&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-%233498db?style=flat-square&logo=mysql&logoColor=white)](#)
+###
 
-#### Tools:
-[![Nodejs](https://img.shields.io/badge/Nodejs-%23f39c12?style=flat-square&logo=node.js&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-%2334495e?style=flat-square&logo=linux&logoColor=white)](#)
-[![Arduino](https://img.shields.io/badge/Arduino-%23f1c40f?style=flat-square&logo=arduino&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-%232c3e50?style=flat-square&logo=git&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23795548?style=flat-square&logo=bootstrap&logoColor=white)](#)
+<br clear="both">
 
-## Interests
+<img src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/snake.svg" alt="Snake animation" />
 
-I have a wide range of interests that reflect my curiosity and creativity. Some of them include:
-
-- **Technology:** Exploring the latest advancements in Technology. I've learned HTML, C++, Python, and Web designing skills from various online sources such as YouTube channels and blogs.
-  
-- **Movies:** Enjoying sci-fi and fantasy genre movies that stimulate my imagination and challenge my perspective. Some of my favorites are The Matrix, Interstellar, etc.
-
-- **Cooking:** Aspiring chef who likes to experiment with different ingredients. I often cook for my family and get their feedback on my dishes.
-
-## Projects
-
-### Assistrend Website
-- HTML5 · CSS · JavaScript · Bootstrap
-- [assistrend.com](https://assistrend.com)
-
-### Technical HSS Puthuppally Website
-- HTML5 · CSS · JavaScript · Bootstrap
-- [thssputhuppally.ihrd.ac.in](https://thssputhuppally.ihrd.ac.in)
-
-### Personal Website
-- HTML5 · CSS · JavaScript · Bootstrap
-- [Godly K Mathews](https://godlykmathews.github.io)
-
-### IoT Gas Sensing Robot with Telegram Bot
-- Arduino Uno · Motor Driver · ESP32 · UltraSonic Sensor · Gas Sensor · Flame Sensor
-- Project Image
-
-Feel free to reach out if you want to connect or collaborate on something interesting. Thank you for visiting my page!
-
----
+###
