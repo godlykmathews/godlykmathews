@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [godlykmathews.vercel.app](godlykmathews.vercel.app)
+- 👨‍💻 All of my projects are available at [godlykmathews.vercel.app](https://godlykmathews.vercel.app)
 
-- 📝 I regularly write articles on [godlykmathews.vercel.app/blog](godlykmathews.vercel.app/blog)
+- 📝 I regularly write articles on [godlykmathews.vercel.app/blog](https://godlykmathews.vercel.app/blog)
 
 - 📫 How to reach me **work.godlykm@gmail.com**
 
-- 📄 Know about my experiences [godlykmathews.githu.io](godlykmathews.githu.io)
+- 📄 Know about my experiences [godlykmathews.githu.io](https://godlykmathews.githu.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
