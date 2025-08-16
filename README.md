@@ -10,11 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [godlykmathews.vercel.app](https://godlykmathews.vercel.app)
 
-- 📝 I regularly write articles on [godlykmathews.vercel.app/blog](https://godlykmathews.vercel.app/blog)
-
 - 📫 How to reach me **work.godlykm@gmail.com**
 
-- 📄 Know about my experiences [godlykmathews.githu.io](https://godlykmathews.githu.io)
+- 📄 Know about my experiences [godlykmathews.githu.io](https://godlykmathews.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
