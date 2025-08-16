@@ -13,7 +13,7 @@ Welcome to my world of code, creativity, and curiosity!
 - 🌱 Currently learning **React Native**  
 - 💻 All my projects are available at [godlykmathews.vercel.app](https://godlykmathews.vercel.app)  
 - 📫 Reach me at **work.godlykm@gmail.com**  
-- 📄 Explore my experiences at [godlykmathews.githu.io](https://godlykmathews.github.io)
+- 📄 Explore my experiences at [godlykmathews.github.io](https://godlykmathews.github.io)
 
 ---
 
