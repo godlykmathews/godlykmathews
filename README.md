@@ -51,6 +51,10 @@ Welcome to my world of code, creativity, and curiosity!
 
 ---
 
+[![An image of @godlykmathews's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/godlykmathews)](https://holopin.io/@godlykmathews)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Godly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godlykmathews&show_icons=true&theme=radical)
