@@ -50,6 +50,7 @@ Welcome to my world of code, creativity, and curiosity!
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ---
+## Hacktoberfest 2025
 
 [![An image of @godlykmathews's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/godlykmathews)](https://holopin.io/@godlykmathews)
 
