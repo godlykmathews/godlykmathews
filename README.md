@@ -16,6 +16,8 @@ Welcome to my world of code, creativity, and curiosity!
 - 📄 Explore my experiences at [godlykmathews.github.io](https://godlykmathews.github.io)
 
 ---
+![](https://github-profile-trophy.vercel.app/?username=godlykmathews&theme=alduin)
+---
 
 ## 🔗 Connect with Me
 
