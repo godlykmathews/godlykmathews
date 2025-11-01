@@ -74,11 +74,6 @@ Welcome to my world of code, creativity, and curiosity!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godlykmathews&show_icons=true&theme=radical" alt="Godly's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godlykmathews&theme=radical&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=godlykmathews" alt="GitHub Streak"/>
 </p>
 
