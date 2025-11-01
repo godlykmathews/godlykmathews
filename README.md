@@ -20,7 +20,7 @@ Welcome to my world of code, creativity, and curiosity!
 
 ## 🛠️ Languages, Frameworks & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c,cpp,java,py,nodejs,express,mongodb,tailwind,git,github,docker,figma,firebase,aws,linux,arduino,fastapi,postman,flutter,kotlin,bootstrap,discord,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c,cpp,java,py,nodejs,php,express,mongodb,tailwind,git,github,docker,figma,firebase,aws,linux,arduino,fastapi,postman,flutter,kotlin,bootstrap,discord,eclipse,vscode,mysql)](https://skillicons.dev)
 
 ---
 
