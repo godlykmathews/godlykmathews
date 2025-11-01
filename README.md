@@ -31,7 +31,7 @@ Welcome to my world of code, creativity, and curiosity!
     <img src="https://skillicons.dev/icons?i=devto" alt="dev.to">
   </a>
   <a href="https://twitter.com/godlykmathews">
-   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+   <img style="height: 46px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/dark/twitter-x.svg" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/godly-k-mathews">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
