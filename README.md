@@ -74,7 +74,7 @@ Welcome to my world of code, creativity, and curiosity!
 
 ## 💡 Support Me
 
-If you like my work, consider buying me a coffee:
+Consider buying me a coffee:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/godlykmathews">
