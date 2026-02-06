@@ -11,8 +11,7 @@ Welcome to my world of code, creativity, and curiosity!
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **React Native**
-* 💻 All my projects are available at [godlykmathews.vercel.app](https://godlykmathews.vercel.app)
+* 💻 All my projects are available at [godly.is-a.dev](https://godlyk.is-a.dev)
 * 📫 Reach me at **work.godlykm@gmail.com**
 * 📄 Explore my experiences at [godlykmathews.github.io](https://godlykmathews.github.io)
 
