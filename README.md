@@ -1,13 +1,12 @@
+# 👋 Hi, I'm Godly K Mathews
+### Passionate self-taught programmer & Computer Science Engineering student from Kerala, India.
+
+Welcome to my world of code, creativity, and curiosity!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
 </picture>
-# 👋 Hi, I'm Godly K Mathews
-### Passionate self-taught programmer & Computer Science Engineering student from Kerala, India.
-
-Welcome to my world of code, creativity, and curiosity!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godlykmathews&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
