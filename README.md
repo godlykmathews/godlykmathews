@@ -48,17 +48,26 @@ Welcome to my world of code, creativity, and curiosity!
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 🚀 My GitHub Universe
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=godlykmathews&theme=alduin" alt="GitHub Trophies"/>
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📊 Deep Stats & Habits
+<img src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,git,aws" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godlykmathews&show_icons=true&theme=radical" alt="Godly's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godlykmathews" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🎉 Hacktoberfest 2025
