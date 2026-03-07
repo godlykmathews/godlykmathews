@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
+</picture>
 # 👋 Hi, I'm Godly K Mathews
 ### Passionate self-taught programmer & Computer Science Engineering student from Kerala, India.
 
@@ -45,22 +50,6 @@ Welcome to my world of code, creativity, and curiosity!
     <img style="height: 50px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium"/> 
   </a>
 </p>
-
----
-
-## 🚀 My GitHub Universe
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📊 Deep Stats & Habits
-<img src="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 ---
 
