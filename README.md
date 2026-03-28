@@ -49,13 +49,6 @@ Welcome to my world of code, creativity, and curiosity!
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,git,aws" />
-</p>
-
----
-
 ## 🎉 Hacktoberfest 2025
 
 <p align="center">
