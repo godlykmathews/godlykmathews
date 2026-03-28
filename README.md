@@ -15,7 +15,6 @@ Welcome to my world of code, creativity, and curiosity!
 
 * 💻 All my projects are available at [godly.is-a.dev](https://godly.is-a.dev)
 * 📫 Reach me at **work.godlykm@gmail.com**
-* 📄 Explore my experiences at [godlykmathews.github.io](https://godlykmathews.github.io)
 
 ---
 
