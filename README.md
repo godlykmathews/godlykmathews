@@ -56,15 +56,3 @@ Welcome to my world of code, creativity, and curiosity!
     <img src="https://holopin.me/godlykmathews" alt="An image of @godlykmathews's Holopin badges, which is a link to view their full Holopin profile"/>
   </a>
 </p>
-
----
-
-## 💡 Support Me
-
-Consider buying me a coffee:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/godlykmathews">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
-</p>
