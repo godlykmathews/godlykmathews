@@ -12,6 +12,10 @@
 
 ## 🚀 About Me
 
+## 🚀 About Me
+
+* 🔥 **The Vibe:** Code, chaos, and continuous integration. I build fast tools and support community-driven ecosystems.
+* 🛠️ **The Execution:** Diving into messy, complex codebases, fixing bottlenecks, and learning in public.
 * 💻 All my projects are available at [godly.is-a.dev](https://godly.is-a.dev)
 * 📫 Reach me at **work.godlykm@gmail.com**
 
