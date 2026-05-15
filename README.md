@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Godly K Mathews
-### Passionate self-taught programmer & Computer Science Engineering student from Kerala, India.
+### ⚡ Breaking things, fixing them, and pushing it to main.
 
-Welcome to my world of code, creativity, and curiosity!
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godlykmathews/godlykmathews/output/github-contribution-grid-snake-dark.svg">
