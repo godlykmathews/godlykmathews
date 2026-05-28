@@ -43,7 +43,7 @@
   <a href="https://instagram.com/godly_k_mathews_">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-   <a href="https://medium.com/godlykmathews">
+   <a href="https://medium.com/@godlykmathews">
     <img style="height: 50px;" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium"/> 
   </a>
 </p>
