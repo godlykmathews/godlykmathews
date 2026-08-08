@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Godly K Mathews
 ### ⚡ Breaking things, fixing them, and pushing it to main.
 
----
-
 ## 🚀 About Me
 
 * 🔥 **The Vibe:** Code, chaos, and continuous integration. I build fast tools and support community-driven ecosystems.
